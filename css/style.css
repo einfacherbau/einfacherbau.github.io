@@ -2355,7 +2355,7 @@ footer .list-inline li {
 }
 
 .parallax2 {
-	background:url(../images/parallax/2.jpg) no-repeat center fixed;
+	background:url(../images/insel.jpg) no-repeat center fixed;
 	background-size: cover;
 }
 
@@ -3584,8 +3584,8 @@ input:focus, textarea:focus {
 }
 
 .quote3 div img {
-	max-width: 100px;
-	border-radius: 70px;
+	max-width: 250px;
+	border-radius: 20px;
 	background: #fff;
 	padding: 5px;
 	margin: -20px auto 10px;
